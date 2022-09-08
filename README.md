@@ -1,4 +1,4 @@
-# Lichess-API-Performance-Tracker
+# Lichess-API-Analysis
 Track Chess ratings over time, for any Chess variant, and see your progress through the Lichess API. 
 
 Plots Chess ratings against date-time for user: skrajput01 in Antichess (a variant of chess). 
