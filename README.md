@@ -8,4 +8,5 @@ As an avid Antichess player, having won multiple Bronze and Silver trophies and 
 <img width="461" alt="image" src="https://user-images.githubusercontent.com/87664365/190997402-0b3a52d9-f7d9-4574-a339-d7b5dad4f628.png">
 
 [Update: Since posting this project, I have now achieved the title of Antichess Candidate Master (ACM) and am ranked in the top 200 Antichess players on Lichess.org. Next Goals: gain a gold trophy in an arena, rank in the top 100 on Lichess.org's top Antichess players, and finally become an Antichess Master (AM)]
+
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/87664365/190998357-65d297dd-0491-46ba-8184-61a8ad09274a.png">
